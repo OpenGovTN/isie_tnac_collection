@@ -1,0 +1,1305 @@
+{
+  "elected": [
+    {
+      "id": "464",
+      "pourcentage": 54.20500305461301,
+      "elus": [
+        {
+          "name": "محمد الحبيب مرزوقي",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "يمينة الزغلامي",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "كريم الهاروني",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "هاجر عزيز",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "سعاد بن عبد الرحيم",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "زياد الدولاتي",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "حليمة القني",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "صحبي العتيق",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "آمال غويل",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "فرجاني الدغمان",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "نور الدين البحيري",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "هالة الحامي",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "صادق شورو",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "سلمى صرصوط",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "عبد الباسط بن الشيخ",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "لطيفة حباشي",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "محسن الكعبي",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "سمير ديلو",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "عائشة الذوادي",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "بشير اللزام",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "آسية النفاتي",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "محمد بن سالم",
+          "circonsription_name": "زغوان",
+          "circonsription_id": "160"
+        },
+        {
+          "name": "نبيهة ترجمان",
+          "circonsription_name": "زغوان",
+          "circonsription_id": "160"
+        },
+        {
+          "name": "المعز ابن الحاج رحومة",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "سناء الحداد",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "عماد الحمامي",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "صالحة بن عيشة",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "محمد سعيدي",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "نبيلة العسكري السنوسي",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "أحمد المشرقي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "سناء مرسني",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "عبد اللطيف المكي",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        },
+        {
+          "name": "منيرة عمري",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        },
+        {
+          "name": "عادل بن عطية",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        },
+        {
+          "name": "سامية الفرشيشي",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        },
+        {
+          "name": "حمادي الجبالي",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "منية إبراهيم",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "زياد العذاري",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "فطومة عطية",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "نجيب مراد",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "سنية تومية",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "منير بن هنية",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "هادي بن ابراهم",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "نجيبة  بريول",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "عبد العزيز شعبان",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "منصف بن سالم",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "فطوم الأسود",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "كمال عمّار",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "حبيب اللوز",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "كلثوم بدر الدين",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "بدر الدين عبد الكافي",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "حبيبة التريكي",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "محمود قويعة",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "فريدة عبيدي",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "أحمد سميعي",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "مفيدة مرزوقي",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "وليد بناني",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "خيرة صغيري",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "فرح النصيبي",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "محمد تليلي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        },
+        {
+          "name": "بية جوادي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        },
+        {
+          "name": "حبيب خضر",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "آمال عزوز",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "عبد القادر القادري",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "دليلة بوعين",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "عبد المجيد النجار",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "بسمة الجبالي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "صلاح الدين لهيبة",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "هاجر منيفي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "نفطي المحظي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "محمد محمد بن صالح ",
+          "circonsription_name": "تطاوين",
+          "circonsription_id": "530"
+        },
+        {
+          "name": "جوهرة التيس",
+          "circonsription_name": "تطاوين",
+          "circonsription_id": "530"
+        },
+        {
+          "name": "علي فارس",
+          "circonsription_name": "تطاوين",
+          "circonsription_id": "530"
+        },
+        {
+          "name": "سليمان هلال",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "زهرة صميدة",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "عبد الحليم زواري",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "حافظ إبراهيم الأسود",
+          "circonsription_name": "توزر",
+          "circonsription_id": "620"
+        },
+        {
+          "name": "كوثر الأدغم",
+          "circonsription_name": "توزر",
+          "circonsription_id": "620"
+        },
+        {
+          "name": "بشير شمام",
+          "circonsription_name": "قبلي",
+          "circonsription_id": "630"
+        },
+        {
+          "name": "منية القصري",
+          "circonsription_name": "قبلي",
+          "circonsription_id": "630"
+        },
+        {
+          "name": "عامر الأعريض",
+          "circonsription_name": "فرنسا 1",
+          "circonsription_id": "100"
+        },
+        {
+          "name": "محرزية الصغير العبيدي",
+          "circonsription_name": "فرنسا 1",
+          "circonsription_id": "100"
+        },
+        {
+          "name": "ناجي الجمل",
+          "circonsription_name": "فرنسا 2",
+          "circonsription_id": "200"
+        },
+        {
+          "name": "دليلة الببة",
+          "circonsription_name": "فرنسا 2",
+          "circonsription_id": "200"
+        },
+        {
+          "name": "أسامة الصغير",
+          "circonsription_name": "إيطاليا",
+          "circonsription_id": "300"
+        },
+        {
+          "name": "إيمان بن محمد",
+          "circonsription_name": "إيطاليا",
+          "circonsription_id": "300"
+        },
+        {
+          "name": "فتحي العيادي",
+          "circonsription_name": "ألمانيا",
+          "circonsription_id": "400"
+        },
+        {
+          "name": "فردوس الوسلاتي",
+          "circonsription_name": "القارة الأمريكية وبقية الدول الأوروبية",
+          "circonsription_id": "500"
+        },
+        {
+          "name": "كمال بن عمارة",
+          "circonsription_name": "الدول العربية و بقية دول العالم",
+          "circonsription_id": "600"
+        }
+      ],
+      "vote": 1498590,
+      "name": "قائمة حركة النهضة"
+    },
+    {
+      "id": "446",
+      "pourcentage": 12.374311446099735,
+      "elus": [
+        {
+          "name": "سمير بن عمر",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "عربي عبيد",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "عبد العزيز القطي",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "هيثم بلقاسم",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "عبد الرؤوف العيادي",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "هشام بن جامع",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "ناصر إبراهمي",
+          "circonsription_name": "زغوان",
+          "circonsription_id": "160"
+        },
+        {
+          "name": "محمد المحرزي عبو",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "محمد المنصف المرزوقي",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "ربيع العابدي",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "ضمير المناعي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "طارق العبيدي",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        },
+        {
+          "name": "طاهر هميلة",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "أزهر الشملي",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "رفيق التليلي",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "محمد الكراي الجربي",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "عبد الوهاب معطر",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "نزار مخلوفي",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "محمد نصري",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "نوفل الغريبي",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "سليم بن حميدان",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "عبد السلام شعبان",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "أزاد بادي",
+          "circonsription_name": "توزر",
+          "circonsription_id": "620"
+        },
+        {
+          "name": "عمر الشتوي",
+          "circonsription_name": "قبلي",
+          "circonsription_id": "630"
+        },
+        {
+          "name": "حسناء مرسيط",
+          "circonsription_name": "قبلي",
+          "circonsription_id": "630"
+        },
+        {
+          "name": "عماد الدائمي",
+          "circonsription_name": "فرنسا 1",
+          "circonsription_id": "100"
+        },
+        {
+          "name": "هادي عباس",
+          "circonsription_name": "فرنسا 2",
+          "circonsription_id": "200"
+        },
+        {
+          "name": "مبروكة مبارك",
+          "circonsription_name": "القارة الأمريكية وبقية الدول الأوروبية",
+          "circonsription_id": "500"
+        },
+        {
+          "name": "إقبال المصدع",
+          "circonsription_name": "الدول العربية و بقية دول العالم",
+          "circonsription_id": "600"
+        }
+      ],
+      "vote": 342109,
+      "name": "قائمة حزب المؤتمر من أجل الجمهورية"
+    },
+    {
+      "id": "500",
+      "pourcentage": 9.156098501413007,
+      "elus": [
+        {
+          "name": "علي حويجي",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "محمد الصالح شعيرات",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "جديدي السبوعي",
+          "circonsription_name": "زغوان",
+          "circonsription_id": "160"
+        },
+        {
+          "name": "طارق بوعزيز",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "منصف شارني",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "أيمن الزواغي",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "أنور مرزوقي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "حاتم الكلاعي",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        },
+        {
+          "name": "شكري العرفاوي",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        },
+        {
+          "name": "اسكندر بوعلاقي",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "محمد عبد المنعم كرير",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "جلال فرحات",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "حنان الساسي",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "معز كمون",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "رمضان دغماني",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "ريم ثايري",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "ربيعة نجلاوي",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "محمد حامدي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        },
+        {
+          "name": "فايزة كدوسي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        },
+        {
+          "name": "حسني بدري",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        },
+        {
+          "name": "مولدي الزيدي",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        },
+        {
+          "name": "سعيد خرشوفي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "سعد بوعيش",
+          "circonsription_name": "تطاوين",
+          "circonsription_id": "530"
+        },
+        {
+          "name": "حسن رضواني",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "إبراهيم قصاص",
+          "circonsription_name": "قبلي",
+          "circonsription_id": "630"
+        },
+        {
+          "name": "عبد الستار الضيفي",
+          "circonsription_name": "إيطاليا",
+          "circonsription_id": "300"
+        }
+      ],
+      "vote": 253136,
+      "name": "قائمة العريضة الشعبية للحرية والعدالة والتنمية"
+    },
+    {
+      "id": "430",
+      "pourcentage": 9.078620928132136,
+      "elus": [
+        {
+          "name": "مصطفى بن جعفر",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "خليل منصف الزاوية",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "لبنى الجريبي",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "مولدي الرياحي",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "خميس قسيلة",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "سلمى هادية مبروك",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "عبد الرحمان الأدغم",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        },
+        {
+          "name": "محمد العلوش",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "عبد اللطيف عبيد",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "فاطمة الغربي",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "علي بالشريفة",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "سعيد مشيشي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "عبد القادر بن خميس",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        },
+        {
+          "name": "صالح شعيب",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "جمال طوير",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "جمال القرقوري",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "جلال بوزيد",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "محمد هرقام",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        },
+        {
+          "name": "سليم بن عبد السلام",
+          "circonsription_name": "فرنسا 1",
+          "circonsription_id": "100"
+        },
+        {
+          "name": "كريمة سويد",
+          "circonsription_name": "فرنسا 2",
+          "circonsription_id": "200"
+        }
+      ],
+      "vote": 250994,
+      "name": "قائمة حزب التكتل الديمقراطي من أجل العمل والحريات"
+    },
+    {
+      "id": "137",
+      "pourcentage": 3.9981972538504578,
+      "elus": [
+        {
+          "name": "محمد المنصف شيخ روحه",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "أحمد نجيب الشابي",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "عصام الشابي",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "مية الجريبي",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "مهدي بن غربية",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "قيس مختار",
+          "circonsription_name": "زغوان",
+          "circonsription_id": "160"
+        },
+        {
+          "name": "نجلاء بوريال الصيد",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "محمود بارود",
+          "circonsription_name": "نابل 2",
+          "circonsription_id": "152"
+        },
+        {
+          "name": "شكري القسطلّي",
+          "circonsription_name": "باجـة",
+          "circonsription_id": "210"
+        },
+        {
+          "name": "رابح الخرايفي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        },
+        {
+          "name": "إياد الدهماني",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        },
+        {
+          "name": "محمد قحبيش",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "محمد الناجي غرسلي",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "محمد الحامدي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        },
+        {
+          "name": "محمد كحيلة",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        },
+        {
+          "name": "محمد الماي",
+          "circonsription_name": "فرنسا 2",
+          "circonsription_id": "200"
+        }
+      ],
+      "vote": 110537,
+      "name": "قائمة الحزب الديمقراطي التقدمي"
+    },
+    {
+      "id": "447",
+      "pourcentage": 3.5280508964719495,
+      "elus": [
+        {
+          "name": "محمد كريم كريفة",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "منى بن نصر",
+          "circonsription_name": "سوسة",
+          "circonsription_id": "310"
+        },
+        {
+          "name": "هادي الشاوش",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "أميرة مرزوق",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        },
+        {
+          "name": "فاضل الوج",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        }
+      ],
+      "vote": 97539,
+      "name": "قائمة حزب المبادرة"
+    },
+    {
+      "id": "259",
+      "pourcentage": 1.7789820199220812,
+      "elus": [
+        {
+          "name": "سمير الطيب",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        },
+        {
+          "name": "أحمد إبراهيم",
+          "circonsription_name": "تونس 2 ",
+          "circonsription_id": "112"
+        },
+        {
+          "name": "محمد العربي فاضل موسى",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        },
+        {
+          "name": "سلمى بكار",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        },
+        {
+          "name": "نادية شعبان",
+          "circonsription_name": "فرنسا 1",
+          "circonsription_id": "100"
+        }
+      ],
+      "vote": 49183,
+      "name": "قائمة القطب الديمقراطي الحداثي"
+    },
+    {
+      "id": "401",
+      "pourcentage": 1.0636346964973409,
+      "elus": [
+        {
+          "name": "نعمان الفهري",
+          "circonsription_name": "نابل 1",
+          "circonsription_id": "151"
+        },
+        {
+          "name": "ريم محجوب",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        },
+        {
+          "name": "شكري يعيش",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        },
+        {
+          "name": "سميرة  مرعي",
+          "circonsription_name": "مدنين",
+          "circonsription_id": "520"
+        }
+      ],
+      "vote": 29406,
+      "name": "قائمة حزب آفاق تونس"
+    },
+    {
+      "id": "386",
+      "pourcentage": 0.5089213146880769,
+      "elus": [
+        {
+          "name": "مراد العمدوني",
+          "circonsription_name": "بنزرت",
+          "circonsription_id": "170"
+        },
+        {
+          "name": "محمد براهمي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        }
+      ],
+      "vote": 14070,
+      "name": "قائمة حركة الشعب"
+    },
+    {
+      "id": "506",
+      "pourcentage": 0.48179331283903215,
+      "elus": [
+        {
+          "name": "صلاح الدين الزحاف",
+          "circonsription_name": "صفاقس 2",
+          "circonsription_id": "342"
+        }
+      ],
+      "vote": 13320,
+      "name": "قائمة صوت المستقل"
+    },
+    {
+      "id": "286",
+      "pourcentage": 0.440269384675428,
+      "elus": [
+        {
+          "name": "محمد الطاهر إيلاه",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        }
+      ],
+      "vote": 12172,
+      "name": "قائمة المستقل"
+    },
+    {
+      "id": "437",
+      "pourcentage": 0.4318777894367901,
+      "elus": [
+        {
+          "name": "حطاب بركاتي",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        },
+        {
+          "name": "أحمد السافي",
+          "circonsription_name": "صفاقس 1",
+          "circonsription_id": "341"
+        },
+        {
+          "name": "فتحي اللطيف",
+          "circonsription_name": "القيروان",
+          "circonsription_id": "410"
+        }
+      ],
+      "vote": 11940,
+      "name": "قائمة حزب العمال الشيوعي التونسي (البديل الثوري)"
+    },
+    {
+      "id": "382",
+      "pourcentage": 0.2988058976999433,
+      "elus": [
+        {
+          "name": "كمال السعداوي",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        },
+        {
+          "name": "حمد خصخوصي",
+          "circonsription_name": "سيدي بوزيد",
+          "circonsription_id": "430"
+        }
+      ],
+      "vote": 8261,
+      "name": "قائمة حركة الديمقراطيين الاشتراكيين"
+    },
+    {
+      "id": "566",
+      "pourcentage": 0.26896509566599425,
+      "elus": [
+        {
+          "name": "فؤاد ثامر",
+          "circonsription_name": "قابس",
+          "circonsription_id": "510"
+        }
+      ],
+      "vote": 7436,
+      "name": "قائمة من أجل جبهة وطنية تونسية"
+    },
+    {
+      "id": "444",
+      "pourcentage": 0.23948600032336576,
+      "elus": [
+        {
+          "name": "كريم بوعبدلي",
+          "circonsription_name": "أريانة",
+          "circonsription_id": "120"
+        }
+      ],
+      "vote": 6621,
+      "name": "قائمة الحزب الليبرالي المغاربي"
+    },
+    {
+      "id": "435",
+      "pourcentage": 0.22020703367597808,
+      "elus": [
+        {
+          "name": "محمد لطفي بن مصباح",
+          "circonsription_name": "المهدية",
+          "circonsription_id": "330"
+        }
+      ],
+      "vote": 6088,
+      "name": "قائمة حزب العدالة والمساواة"
+    },
+    {
+      "id": "64",
+      "pourcentage": 0.2177835988441301,
+      "elus": [
+        {
+          "name": "محمد نجيب الحسني",
+          "circonsription_name": "الكاف",
+          "circonsription_id": "230"
+        }
+      ],
+      "vote": 6021,
+      "name": "قائمة الأمل"
+    },
+    {
+      "id": "455",
+      "pourcentage": 0.21235799847432119,
+      "elus": [
+        {
+          "name": "هشام حسني",
+          "circonsription_name": "تونس 1",
+          "circonsription_id": "111"
+        }
+      ],
+      "vote": 5871,
+      "name": "قائمة حزب النضال التقدمي"
+    },
+    {
+      "id": "136",
+      "pourcentage": 0.2107303183633785,
+      "elus": [
+        {
+          "name": "عبد الرزاق خلولي",
+          "circonsription_name": "منوبة",
+          "circonsription_id": "140"
+        }
+      ],
+      "vote": 5826,
+      "name": "قائمة الحزب الدستوري الجديد"
+    },
+    {
+      "id": "413",
+      "pourcentage": 0.20602813137621076,
+      "elus": [
+        {
+          "name": "محمد نزار قاسم",
+          "circonsription_name": "بن عروس",
+          "circonsription_id": "130"
+        }
+      ],
+      "vote": 5696,
+      "name": "قائمة حزب الأمة الديمقراطي الاجتماعي"
+    },
+    {
+      "id": "410",
+      "pourcentage": 0.1887747222002184,
+      "elus": [
+        {
+          "name": "إبراهيم حامدي",
+          "circonsription_name": "المنستير",
+          "circonsription_id": "320"
+        }
+      ],
+      "vote": 5219,
+      "name": "قائمة حزب الأمة الثقافي الوحدوي"
+    },
+    {
+      "id": "348",
+      "pourcentage": 0.18338529249954152,
+      "elus": [
+        {
+          "name": "مبروك الحريزي",
+          "circonsription_name": "القصرين",
+          "circonsription_id": "420"
+        }
+      ],
+      "vote": 5070,
+      "name": "قائمة الوفاء "
+    },
+    {
+      "id": "330",
+      "pourcentage": 0.17141280101682985,
+      "elus": [
+        {
+          "name": "وسام ياسين",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        }
+      ],
+      "vote": 4739,
+      "name": "قائمة النضال الاجتماعي"
+    },
+    {
+      "id": "96",
+      "pourcentage": 0.161176501652457,
+      "elus": [
+        {
+          "name": "نور الدين المرابطي",
+          "circonsription_name": "سليانة",
+          "circonsription_id": "240"
+        }
+      ],
+      "vote": 4456,
+      "name": "قائمة الاتحاد الوطني الحر"
+    },
+    {
+      "id": "8",
+      "pourcentage": 0.15282107708295128,
+      "elus": [
+        {
+          "name": "فيصل جدلاوي",
+          "circonsription_name": "قفصة",
+          "circonsription_id": "610"
+        }
+      ],
+      "vote": 4225,
+      "name": "القائمة المستقلة العدالة"
+    },
+    {
+      "id": "394",
+      "pourcentage": 0.13043143289020648,
+      "elus": [
+        {
+          "name": "منجي الرحوي",
+          "circonsription_name": "جندوبة",
+          "circonsription_id": "220"
+        }
+      ],
+      "vote": 3606,
+      "name": "قائمة حركة الوطنيون الديمقراطيون"
+    },
+    {
+      "id": "355",
+      "pourcentage": 0.09187349959543108,
+      "elus": [
+        {
+          "name": "محمد شفيق زرقين",
+          "circonsription_name": "توزر",
+          "circonsription_id": "620"
+        }
+      ],
+      "vote": 2540,
+      "name": "قائمة الوفاء للشهداء"
+    }
+  ]
+}
